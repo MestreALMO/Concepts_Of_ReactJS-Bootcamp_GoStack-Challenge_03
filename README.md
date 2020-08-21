@@ -16,23 +16,12 @@ With the challenge done this is the final look:
 <br />
 The data on screen correpond to a title in the API, by clicking on the button "add" it will add a new line with different name to API and display it on screen:
 <br />
-* before clicking
-<br />
-<br />
-<br />
-![image 02](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_2.png?raw=true)
-<br />
-* after clicking:
-<br />
-![image 03](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_3.png?raw=true)
-<br />
-By clicking in delete it will erase it from API and display the new API list on screen:
-<br />
-* before clicking:
-<br />
-![image 04](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_4.png?raw=true)
-<br />
-* after clicking:
-<br />
-![image 05](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_5.png?raw=true)
-<br />
+* before clicking: <br />
+![image 02](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_2.png?raw=true) <br />
+* after clicking: <br />
+![image 03](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_3.png?raw=true) <br />
+By clicking in delete it will erase it from API and display the new API list on screen: <br />
+* before clicking: <br />
+![image 04](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_4.png?raw=true) <br />
+* after clicking: <br />
+![image 05](https://github.com/MestreALMO/Concepts_Of_ReactJS-Bootcamp_GoStack-Challenge_03/blob/master/_ImageReadme/Screenshot_5.png?raw=true) <br />
