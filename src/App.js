@@ -38,13 +38,13 @@ function App() {
             {project.title}
 
             <button onClick={() => handleRemoveRepository(project.id)}>
-              Remover
+              Remove
             </button>
           </li>
         )}
       </ul>
 
-      <button onClick={handleAddRepository}>Adicionar</button>
+      <button onClick={handleAddRepository}>Add</button>
     </div>
   );
 }
