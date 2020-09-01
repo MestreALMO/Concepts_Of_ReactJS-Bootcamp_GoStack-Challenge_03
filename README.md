@@ -6,7 +6,7 @@ Here we have a challenge to grab [this template](https://github.com/rocketseat-e
 * Remove repository of API
 <br />
 
-The mencioned API is the one contained in backend folder that I created [here](https://github.com/MestreALMO/dev-concepts), though to easily access I also added the API to this retository.
+The mencioned API is the one contained in backend folder that I created [here](https://github.com/MestreALMO/GoStack_02-Concepts_of_Node.js).
 <br />
 Running the template just returned a blank page, so there is nothing to show of the display before I started.
 <br />
