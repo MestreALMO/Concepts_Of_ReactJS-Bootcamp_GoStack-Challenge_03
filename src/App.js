@@ -13,12 +13,12 @@ function App() {
 
   async function handleAddRepository() {
     const response = await api.post('repositories', {
-        title: `New repository ${Date.now()}`,
-        owner: 'André Lusegardis'
+        title: `Repository: ${Date.now()}`,
+        url: "https://github.com/MestreALMO",
+        techs: ["Node.js", "ReactJS"]
     });
 
     const repository = response.data;
-
     setRepositories([...repositories, repository]);
   }
 
